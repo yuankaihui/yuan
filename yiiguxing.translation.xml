@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="template" />
       <item value="Enable Jpa Auditing" />
       <item value="Spring Boot Application" />
       <item value="Enable Transaction Management" />
