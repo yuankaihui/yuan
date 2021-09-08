@@ -1,7 +1,7 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="accentColor" value="416a9b" />
-    <option name="selectedTheme" value="NATIVE" />
+    <option name="accentColor" value="79cb60" />
+    <option name="selectedTheme" value="GITHUB" />
     <option name="userId" value="-6df0bc8a:17b0ff16ea0:-8000" />
     <option name="version" value="5.2.0" />
   </component>
