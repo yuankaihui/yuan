@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" />
-    <option name="defaultScopeName" />
-    <option name="SEARCH_SCOPE" />
+    <option name="customScope" value="文件 '...\src\main\resources\mapper\BaseResourceMapper.xml [ds_tgis_main]'" />
+    <option name="defaultScopeName" value="文件 '...\src\main\resources\mapper\BaseResourceMapper.xml [ds_tgis_main]'" />
+    <option name="SEARCH_SCOPE" value="文件 '...\src\main\resources\mapper\BaseResourceMapper.xml [ds_tgis_main]'" />
   </component>
 </application>
